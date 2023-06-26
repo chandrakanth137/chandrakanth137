@@ -12,15 +12,21 @@
 
 
 <!--- snake -->
-<div align="center">
+<div style="justify-items:center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
 
 <!--Intro start-->
-- 🎓 Deeply interested in **Machine Learning and Deep Learning**.
-- 📔 Experience in **Medical Image Processing, Image Processing, Natural Language Processing**
+<div align="center">
+🧠 Currently pursuing <b>B.Tech Artficial Intelligence and Machine Learning</b><br/>
+🎓 Deeply interested in <b>Machine Learning and Deep Learning</b><br/>
+📔 Experience in <b>Medical Image Processing, Image Processing, Natural Language Processing</b><br/>
+🥇 Winner of <b>3 Hackathons</b><br/>
+🏟️ Organized various events at College such as <b>Coding Events and Hackathons</b><br/>
+🖋️ <b>Chief Article Editor</b> of Department Newsletter for 2 years<br/>
+</div>
 <!--Intro end-->
 
 
