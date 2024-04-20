@@ -11,13 +11,6 @@
 </div>
 
 
-<!--- snake -->
-<div style="justify-items:center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 <!--Intro start-->
 <div align="center">
 🧠 Currently pursuing <b>B.Tech Artficial Intelligence and Machine Learning</b><br/>
