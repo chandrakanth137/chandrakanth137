@@ -51,7 +51,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,css,docker,html,java,js,linux,md,mysql,nextjs,nodejs,py,react,tailwind,ts,vscode,tensorflow,pytorch,bash,blender,flask,php&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py, pytorch, tensorflow, flask, Django, git, github, html,linux, md, bash, blender&perline=14" />
   </a>
 </p>
 
